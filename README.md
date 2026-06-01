@@ -1,6 +1,7 @@
 # 🎯 Stationary Period Analysis with YOLO
 
 > **Automatically detect and measure how long each person stands still in a video — using AI, frame by frame.**
+> https://colab.research.google.com/drive/1QZSGvSxLA4XN4v22NWO4hItb2d72ZhvJ?usp=sharing
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple?logo=pytorch&logoColor=white)](https://github.com/ultralytics/ultralytics)
